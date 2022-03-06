@@ -1,0 +1,2 @@
+# jissennyumon
+traning git
